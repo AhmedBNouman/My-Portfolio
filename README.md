@@ -1,4 +1,3 @@
-# data-analysis-projects
 # 🧠 AI & Data Science Portfolio
 
 Welcome to my portfolio! Below are my projects categorized by domain.
@@ -18,17 +17,10 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 
 ---
 
-## 🧠 Deep Learning & Computer Vision
+## 🧠 MY SQL Projects
 - [Handwritten Digit Recognition (MNIST)](https://github.com/username/ComputerVision_DigitRecognition)
 - [CNN Image Classifier](https://github.com/username/CNN_Classifier)
 
 ---
 
-## 🗣️ Natural Language Processing (NLP)
-- [Sentiment Analysis on Tweets](https://github.com/username/NLP_Tweet_Sentiment)
-- [Text Classification using RNN](https://github.com/username/NLP_Text_Classification)
 
----
-
-## 📂 Other Projects
-- [Flask Web App for ML Model Deployment](https://github.com/username/ML_Flask_App)
