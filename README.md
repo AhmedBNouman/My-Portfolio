@@ -12,7 +12,7 @@ Welcome to my portfolio! Below are my projects categorized by domain.
  
 ---
 
-## 🧠 MY SQL Projects
+## 🧠 MY SQL 
 - [library project](https://github.com/AhmedBNouman/My-SQL-project-Library)
 - [E-commerce project](https://github.com/AhmedBNouman/E-commerce)
 
