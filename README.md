@@ -18,8 +18,8 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 ---
 
 ## 🧠 MY SQL Projects
-- [Handwritten Digit Recognition (MNIST)](https://github.com/username/ComputerVision_DigitRecognition)
-- [CNN Image Classifier](https://github.com/username/CNN_Classifier)
+- [library project](https://github.com/AhmedBNouman/My-SQL-project-Library)
+- [E-commerce project](https://github.com/username/CNN_Classifier)
 
 ---
 
