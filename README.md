@@ -19,7 +19,7 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 
 ## 🧠 MY SQL Projects
 - [library project](https://github.com/AhmedBNouman/My-SQL-project-Library)
-- [E-commerce project](https://github.com/username/CNN_Classifier)
+- [E-commerce project](https://github.com/AhmedBNouman/E-commerce)
 
 ---
 
