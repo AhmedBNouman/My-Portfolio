@@ -9,12 +9,7 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 - [Exploratory Analysis on super store dataset](https://github.com/AhmedBNouman/Super-store-analysis)
 - [Data analysis dashboards using power bi](https://github.com/AhmedBNouman/data-analysis-dashboards-using-Power-BI)
 
----
-
-## 🤖 Machine Learning
-- [flight-price-prediction-using-regression](https://github.com/AhmedBNouman/flight-price-prediction-using-regression)
-- [Used-Car-prediction-using-regression](https://github.com/AhmedBNouman/Used-Car-prediction-Multiple-regression)
-- [adult-income-classfication](https://github.com/AhmedBNouman/adult-income-classfication)   
+ 
 ---
 
 ## 🧠 MY SQL Projects
