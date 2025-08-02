@@ -6,9 +6,9 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 ---
 
 ## 📊 Data Analysis & Visualization
-- [EDA on Online Retail Dataset](https://github.com/username/EDA_OnlineSales)
-- [Exploratory Analysis on COVID-19 Data](https://github.com/username/EDA_COVID19)
-- [Data analysis projects using power bi](https://github.com/AhmedBNouman/data-analysis-dashboards-using-Power-BI)
+- [EDA on sales Dataset](https://github.com/AhmedBNouman/sales_Analysis)
+- [Exploratory Analysis on COVID-19 Dat](https://github.com/username/EDA_COVID19)
+- [Data analysis dashboards using power bi](https://github.com/AhmedBNouman/data-analysis-dashboards-using-Power-BI)
 
 ---
 
