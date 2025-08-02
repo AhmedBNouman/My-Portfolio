@@ -12,7 +12,7 @@ Welcome to my portfolio! Below are my projects categorized by domain.
 ---
 
 ## 🤖 Machine Learning
-- [House Price Prediction using Regression](https://github.com/username/ML_HousePrediction)
+- [flight-price-prediction-using-regression](https://github.com/AhmedBNouman/flight-price-prediction-using-regression)
 - [Loan Default Classification](https://github.com/username/ML_LoanClassifier)
 - [adult-income-classfication](https://github.com/AhmedBNouman/adult-income-classfication)   
 ---
